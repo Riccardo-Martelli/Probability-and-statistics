@@ -84,9 +84,9 @@ pip install pandas numpy scipy seaborn matplotlib scikit-learn networkx openpyxl
 - Open the Jupyter Notebook:
 
   ```bash
-  jupyter notebook
+  jupyter notebook Esame_17_02_Riccardo_Martelli.ipynb
   ```
-- Open `Esame_17_02_Riccardo_Martelli.ipynb` to explore the full analysis and data visualizations.
+- Explore the full analysis and data visualizations.
 ## Dataset
 
 This project uses publicly available data on the net worth of billionaires across three years: 1996, 2001, and 2014. More details on the dataset can be found in the notebook.
