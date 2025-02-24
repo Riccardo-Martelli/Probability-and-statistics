@@ -32,7 +32,7 @@ In this project, we explore whether billionaires follow the same Pareto distribu
 - Conducting a Kolmogorov-Smirnov test to validate the best-fitting distribution.
   
 ### 2. **Statistical Testing**
-The distribution fitting is followed by statistical tests. A p-value table summarizes the results of tests performed on the distributions:
+The distribution fitting is followed by Kolmogorov-Smirnov (KS) statistical tests. A p-value table summarizes the results of tests performed on the distributions:
 
 | Year  | 1996 | 2001 | 2014 |
 |-------|------|------|------|
