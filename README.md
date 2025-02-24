@@ -79,7 +79,7 @@ pip install pandas numpy scipy seaborn matplotlib scikit-learn networkx openpyxl
 - Navigate to the project folder:
 
   ```bash
-  cd billionaires-net-worth-analysis
+  cd Probability-and-statistics
   ```
 - Open the Jupyter Notebook:
 
