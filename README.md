@@ -68,20 +68,24 @@ To install them, run:
 
 ```bash
 pip install pandas numpy scipy seaborn matplotlib scikit-learn networkx openpyxl
+```
 ## How to Run the Project
 
 1. Clone this repository:
 
    ```bash
    git clone https://github.com/yourusername/billionaires-net-worth-analysis.git
+   ```
 - Navigate to the project folder:
 
   ```bash
   cd billionaires-net-worth-analysis
+  ```
 - Open the Jupyter Notebook:
 
   ```bash
   jupyter notebook
+  ```
 - Open `Esame_17_02_Riccardo_Martelli.ipynb` to explore the full analysis and data visualizations.
 ## Dataset
 
