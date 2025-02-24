@@ -74,7 +74,7 @@ pip install pandas numpy scipy seaborn matplotlib scikit-learn networkx openpyxl
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/billionaires-net-worth-analysis.git
+   git clone https://github.com/Riccardo-Martelli/Probability-and-statistics.git
    ```
 - Navigate to the project folder:
 
